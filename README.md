@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amaner657
-- 👀 I’m interested in  Front-end  разработка 
+- 👀 I’m interested in  Python 
 - 🌱 I’m сейчас самоучка
 - 💞️ I’m looking to collaborate on  тех кто может помочь с обучением
 - 📫 How to reach me ?  https://vk.com/arleekiin
